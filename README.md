@@ -6,7 +6,7 @@
   <sub>George Bellows, <a href="https://www.nga.gov/artworks/46557-blue-morning"><em>Blue Morning</em></a> (1909) · National Gallery of Art · public domain</sub>
 </p>
 
-I build software and products. Right now I'm working on Seer9. Before that, I shipped NeuroHack on iOS. I've also worked on payroll integrations.
+I'm building Seer9. I previously shipped NeuroHack for iOS and built payroll integrations.
 
 ## Projects
 
@@ -22,7 +22,7 @@ The [public proof-chain repository](https://github.com/asymbaev/seer9-proofs) do
 
 ## Other work
 
-I've worked on payroll integrations and the backend flows that move data between business systems. Getting those details right matters when people's pay is involved.
+I've built payroll integrations and the backend flows that move data between business systems.
 
 ## Public code
 
